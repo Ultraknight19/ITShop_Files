@@ -1,0 +1,199 @@
+.bodyitshop{
+	background-color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 100%;
+	border-right: 65px solid #ff0000;
+	border-left: 65px solid #ff0000;
+	margin: -0.4px -0.4px -0.4px -0.4px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+h1.h1altavoces,
+h1.h1proyectores{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-left: 125px;
+	padding-right: 125px;
+}
+
+h1.h1discosduros,
+h1.h1ordenadores,
+h1.h1teclados{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-left: 145px;
+	padding-right: 145px;
+}
+
+h1.h1impresoras,
+h1.h1ratones{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-left: 165px;
+	padding-right: 165px;
+}
+
+h1.h1monitores,
+h1.h1webcams{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-left: 195px;
+	padding-right: 195px;
+}
+
+table.tablealtavoces,
+table.tablediscosduros,
+table.tableimpresoras,
+table.tablemonitores,
+table.tableordenadores,
+table.tableproyectores,
+table.tableratones,
+table.tableteclados,
+table.tablewebcams{
+	width: 87%;
+	margin-left: 80px;
+}
+
+th.thaltavoces, td.tdaltavoces,
+th.thdiscosduros, td.tddiscosduros,
+th.thimpresoras, td.tdimpresoras,
+th.thmonitores, td.tdmonitores,
+th.thordenadores, td.tdordenadores,
+th.thproyectores, td.tdproyectores,
+th.thratones, td.tdratones,
+th.thteclados, td.tdteclados,
+th.thwebcams, td.tdwebcams{
+	border-top: 2px;
+	border-right: 2px;
+	border-left: 2px;
+	border-bottom: 2px;
+	border-style: double;
+	border-color: #0a0000;
+	border-radius: 2px;
+}
+
+th.thaltavoces{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 41%;
+	height: 25px;
+}
+
+th.thdiscosduros{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 32%;
+	height: 25px;
+}
+
+th.thimpresoras{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 36%;
+	height: 25px;
+}
+
+th.thmonitores{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 35%;
+	height: 25px;
+}
+
+th.thordenadores{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 17%;
+	height: 25px;
+}
+
+th.thproyectores{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 45%;
+	height: 25px;
+}
+
+th.thratones{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 42%;
+	height: 25px;
+}
+
+th.thteclados{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 33%;
+	height: 25px;
+}
+
+th.thwebcams{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	width: 26%;
+	height: 25px;
+}
+
+td.tdaltavoces,
+td.tddiscosduros,
+td.tdimpresoras,
+td.tdmonitores,
+td.tdordenadores,
+td.tdproyectores,
+td.tdratones,
+td.tdteclados,
+td.tdwebcams{
+	letter-spacing: 2px;
+	line-height: 1.5;
+	word-spacing: 1.5px;
+}
+
+button.buttonaltavoces,
+button.buttondiscosduros,
+button.buttonimpresoras,
+button.buttonmonitores,
+button.buttonordenadores,
+button.buttonproyectores,
+button.buttonratones,
+button.buttonteclados,
+button.buttonwebcams{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	margin-top: 10px;
+	margin-left: 1084px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+	border: 2px double #000491;	
+}
+
+button.buttonaltavoces:hover,
+button.buttondiscosduros:hover,
+button.buttonimpresoras:hover,
+button.buttonmonitores:hover,
+button.buttonordenadores:hover,
+button.buttonproyectores:hover,
+button.buttonratones:hover,
+button.buttonteclados:hover,
+button.buttonwebcams:hover{
+	color: white;
+	background-color: #09bc00;
+	font-size: 15.5px;
+	border-radius: 2px;
+	border: 2px double #09bc00;
+}
